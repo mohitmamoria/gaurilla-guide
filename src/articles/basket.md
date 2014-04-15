@@ -19,11 +19,11 @@ Use cases are many and even we are eager to see how creative you all get in usin
 
 1. From now on, you will see a big Basket button on the dashboard. Click on the it to reach to your Basket.
 
-	![basket-navigation]({{site.url}})
+	![basket-navigation]({{site.url}}/images/basket/basket-nav.png)
 
 2. Now, you can upload files in your basket using the **New** button.
 
-	![basket-new]({{site.url}})
+	![basket-new]({{site.url}}/images/basket/basket-new.png)
 
 ### Basket through Email
 
@@ -35,4 +35,4 @@ To leverage the feature (along with many others), you will need to first create 
 
 Once you have your brand name in place, click on the **New** button in the Basket to reveal your unique email address. Anything that we receive on this email address will be added to your Basket, hence, we recommend you to keep it safe.
 
-![basket-email]({{site.url}})
+![basket-email]({{site.url}}/images/basket/basket-email.png)
