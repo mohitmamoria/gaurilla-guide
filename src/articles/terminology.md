@@ -49,6 +49,11 @@ The charges or discounts that you can add in the invoices to account for miscell
 
 ***
 
+#### Money Account
+Money accounts are the account at which you money lies. These can be different bank accounts that your business operates in, cash account, etc.
+
+***
+
 #### Tax Scheme
 A group of taxes that you can apply in slips at once.
 
