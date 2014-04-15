@@ -32,4 +32,3 @@ You might be easily able to keep recording your day to day transactions in your 
 #### Understanding Reports
 
 Gaurilla makes it extremely simple to understand the reports, but your accountant can help you make sense of it. If you are a seasoned businessman, you'd make most sense out of these automatically, but for newbies, an accountant might help.
-
