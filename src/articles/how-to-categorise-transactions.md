@@ -11,7 +11,7 @@ Categorising means to tell Gaurilla which transaction lies in which category. Do
 
 2. Click on **Edit** button beside the transaction you want to categorise.
 
-	![incomes-new]({{site.url}}/images/transactions/income-filter-new.png)
+	![transactions-edit-delete]({{site.url}}/images/transactions/transactions-edit-delete.png)
 
 3. Now select the category of the transaction. If required, add more categories by clicking on the **Add New** button beside Category section.
 
