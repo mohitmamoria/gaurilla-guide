@@ -38,6 +38,7 @@ layout: page
 - [How to get client console]({{site.url}}/articles/how-to-get-client-console)
 - [How to grant access to clients for console]({{site.url}}/articles/how-to-grant-access-to-clients-for-console)
 - [How to create a vendor]({{site.url}}/articles/how-to-create-a-vendor)
+- [How to import clients and vendors]({{site.url}}/articles/how-to-import-clients-vendors)
 
 ---
 
@@ -53,6 +54,7 @@ layout: page
 - [How to add an income]({{site.url}}/articles/how-to-add-an-income)
 - [How to add an expense]({{site.url}}/articles/how-to-add-an-expense)
 - [How to add payment to an invoice]({{site.url}}/articles/how-to-add-payment-to-an-invoice)
+- [How to import transactions from bank and card statements]({{site.url}}/articles/how-to-import-bank-card-statements)
 
 ---
 
