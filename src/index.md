@@ -46,6 +46,7 @@ layout: page
 
 - [How to create an item]({{site.url}}/articles/how-to-create-an-item)
 - [How to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)
+- [How to collaborate with team]({{site.url}}/articles/how-to-collaborate-with-team)
 
 - - -
 
