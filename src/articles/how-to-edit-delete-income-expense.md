@@ -7,11 +7,11 @@ We sometimes, need to change the details about transactions. These changes can b
 
 1. Click on the **Transactions** >> **Incomes**/**Expenses** option from the main navigation bar in the left.
 
-	![incomes-navigation]({{site.url}}/images/navigation/transactions.png)
+	![transactions-navigation]({{site.url}}/images/navigation/transactions.png)
 
 2. Click on **Edit** button beside the transaction you want to edit.
 
-	![incomes-new]({{site.url}}/images/transactions/income-filter-new.png)
+	![transactions-edit-delete]({{site.url}}/images/transactions/transactions-edit-delete.png)
 
 3. Now make the changes in the small window that opens up and click on **Save** to save the changes.
 
